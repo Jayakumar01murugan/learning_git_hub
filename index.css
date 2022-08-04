@@ -26,3 +26,9 @@ tr:nth-child(even) {
     font-size: large;
     background-color: rgb(157, 194, 224);
 }
+#i{
+    border-radius: 10px;
+    border-style: double;
+    border-width: 10px;
+    border-color: rgb(211, 11, 168);
+}
